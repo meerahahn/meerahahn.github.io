@@ -1,7 +1,7 @@
 ---
 title: "Deep Tracking: Visual Tracking Using Deep Convolutional Networks"
 collection: publications
-permalink: /publication/DeepTracking
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This abstract presents a novel and successful approach to object tracking by using convolutional neural networks. This work was done in a Research Experience for Undergraduate (REU) program at University of Central Florida under Dr. Mubarak Shah'
 date: 2015
 venue: 'This abstract was accepted to the Grace Hopper Celebration 2015 where I also presented the poster for this work. The abstract was also accepted to the ACM student research competition in 2015.'
