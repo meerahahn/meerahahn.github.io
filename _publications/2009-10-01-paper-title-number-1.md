@@ -1,7 +1,7 @@
 ---
 title: "Action2Vec: A Crossmodal Embedding Approach to Action Learning"
 collection: publications
-permalink: /publication/Action2Vec
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This abstract creates a cross-modal embedding space of actions in videos and verbs.'
 date: 2018
 venue: 'Accepted to the CVPR 2018 Deep Vision workshop and Language and Vision workshop  and submitted to BMVC 2018. '
