@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Deep Tracking: Visual Tracking Using Deep Convolutional Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/DeepTracking
+excerpt: 'This abstract presents a novel and successful approach to object tracking by using convolutional neural networks. This work was done in a Research Experience for Undergraduate (REU) program at University of Central Florida under Dr. Mubarak Shah'
+date: 2015
+venue: 'This abstract was accepted to the Grace Hopper Celebration 2015 where I also presented the poster for this work. The abstract was also accepted to the ACM student research competition in 2015.'
+paperurl: 'https://arxiv.org/abs/1512.03993'
+citation: 'Hahn, Meera, Si Chen, and Afshin Dehghan. "Deep tracking: Visual tracking using deep convolutional networks." arXiv preprint arXiv:1512.03993 (2015).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
