@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Advances in Methods and Evaluations for Distributional Semantic Models"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/advances
+excerpt: 'The goal of this work was to create more semantically rich embeddings for verbs. The approach modified the word embedding architecture to incorporate semantic role labels and dependencies. Additionally, this work introduces novel quantitative evaluations for embedding for all parts of speech. This work was done at Emory University under Dr. Jinho Choi. This was my undergraduate thesis from Emory University that examines new approaches to Word Embedding and proposes novel methods for word embedding evalutation.'
+date: 2016-01-01
+venue: 'Emory University'
+paperurl: 'http://pid.emory.edu/ark:/25593/rj67f'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

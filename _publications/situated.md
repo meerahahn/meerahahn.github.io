@@ -6,5 +6,4 @@ excerpt: 'In this paper, we present an approach for automatically generating a c
 date: 2017-01-01
 venue: 'Accepted to ISRR 2017 and AAAI 2018'
 paperurl: 'http://www.rail.gatech.edu/wp-content/uploads/2018/04/ISRR2017.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
