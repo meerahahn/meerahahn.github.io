@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Mathematics, Emory University, 2012
+* B.S. in Computer Science and Mathematics, Emory University, 2016
 * M.S. in Computer Science, Georgia Institute of Technology, 2018
 * Pursing a Ph.D in Computer Science, Georgia Institute of Technology, 2021 (expected)
 
