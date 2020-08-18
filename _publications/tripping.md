@@ -6,5 +6,5 @@ excerpt: 'In this paper, we present TripNet, an end-to-end system that uses a ga
 date: 2020-09-07
 venue: 'BMVC'
 paperurl: 'https://arxiv.org/abs/1904.09936'
-citation: 'Hahn, Meera, et al. "Tripping through time: Efficient Localization of Activities in Videos." arXiv preprint arXiv:1904.09936 (2019).'
+citation: 'Hahn, Meera, et al. "Tripping through time: Efficient Localization of Activities in Videos." BMVC (2019).'
 ---
