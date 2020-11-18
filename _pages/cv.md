@@ -16,7 +16,7 @@ Education
 Teaching
 ======
 * Fall 2019: CS 6476 Computer Vision, Head TA [site](https://sites.google.com/view/cs4476-6476-sp2020)
-* Spring 2020: CS 8803 Machine Learning with Limited Supervision, TA [site] (https://sites.google.com/view/fall2019-cs8803-ls)
+* Spring 2020: CS 8803 Machine Learning with Limited Supervision, TA [site](https://sites.google.com/view/fall2019-cs8803-ls)
 
 Curriculum Vitae
 ======
