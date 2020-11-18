@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meera Hahn's Website"
+title                    : "Meera Hahn"
 title_separator          : "-"
 name                     : &name "Meera Hahn"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meera"
+  name             : "Meera Hahn"
   avatar           : "prof_pic.JPG"
-  bio              : "Third year PhD student at Georgia Institute for Technology, pursuing research at the interesection of language and vision"
+  bio              : "PhD candidate at Georgia Institute for Technology, pursuing research at the intersection of language and vision"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
@@ -94,8 +94,6 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
-  foursquare       :
   github           : "meera1hahn"
   google_plus      :
   keybase          :
@@ -104,15 +102,10 @@ author:
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
+  twitter          : meerahahn
   youtube          :
   wikipedia        :
 
