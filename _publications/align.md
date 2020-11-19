@@ -2,7 +2,7 @@
 title: "Localizing and Aligning Fine-Grained Actions to Sparse Instructions"
 collection: publications
 permalink: /publication/align
-excerpt: 'This project addresses the task of automatically generating an alignment between a recipe and a first-person video demonstrating how to prepare the dish. The sparse descriptions and ambiguity of written instructions create significant alignment challenges. The key to our approach is the use of egocentric cues to generate a concise set of action proposals, which are then matched to recipe steps using object detections and computational linguistic techniques.'
+excerpt: 'We present a system for automatically generating an alignment between a recipe and a first-person video demonstrating how to prepare the dish. Our approach uses egocentric cues to generate a concise set of action proposals, which are then matched to recipe steps using object detections and computational linguistic techniques.'
 date: 2016-09-01
 venue: arxiv
 paperurl: 'https://arxiv.org/pdf/1809.08381.pdf'
