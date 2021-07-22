@@ -9,5 +9,6 @@ paperurl: 'https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf'
 website: 'https://meerahahn.github.io/way'
 data: 'https://meerahahn.github.io/way/data'
 code: 'https://github.com/meera1hahn/Graph_LED'
+leaderboard: 'https://eval.ai/web/challenges/challenge-page/1206'
 citation: 'Hahn, Meera, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee, and Peter Anderson. "Where Are You? Localization from Embodied Dialog." In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 806-822. 2020.'
 ---
