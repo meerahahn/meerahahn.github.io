@@ -5,7 +5,7 @@ permalink: /publication/nrns
 excerpt: 'We propose a self-supervised approach called NRNS to learn to navigate from only passive videos of roaming and demonstrate the success of this approach on Image-Goal navigation in unseen environments.'
 date: 2021-08-01
 venue: arxiv
-paperurl: 'https://arxiv.org/pdf/1809.08381.pdf'
+paperurl: 'https://github.com/meera1hahn/NRNS'
 website: 'https://meerahahn.github.io/nrns'
 data: 'https://meerahahn.github.io/nrns/data'
 code: 'https://github.com/meera1hahn/NRNS'
