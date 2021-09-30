@@ -5,10 +5,10 @@ permalink: /publication/test
 excerpt: 'We present WHERE ARE YOU? (WAY), a dataset of ∼6k dialogs in which two humans – an Observer and a Locator – complete a cooperative localization task.'
 date: 2020-12-01
 venue: 'Empirical Methods in Natural Language Processing.'
-paperurl: 'https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf'
-website: 'https://meerahahn.github.io/way'
-data: 'https://meerahahn.github.io/way/data'
-code: 'https://github.com/meera1hahn/Graph_LED'
+paperurl: 'https://github.com/meera1hahn/Visual-Assistant'
+website: 'https://github.com/meera1hahn/Visual-Assistant'
+data: 'https://github.com/meera1hahn/Visual-Assistant/src/Data'
+code: 'https://github.com/meera1hahn/Visual-Assistant'
 citation: 'Meera Hahn, Kevin Carlberg, Ruta Desai, and James Hillis. "Learning a Visually Grounded Memory Assistant." arXiv (2020).'
 ---
 
