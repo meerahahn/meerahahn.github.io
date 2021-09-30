@@ -7,9 +7,6 @@ date: 2020-10-01
 venue: 'arxiv'
 citation: 'Meera Hahn, Kevin Carlberg, Ruta Desai, and James Hillis. "Learning a Visually Grounded Memory Assistant." arXiv (2021).'
 paperurl: 'http://meerahahn.github.io/files/visual_assistant.pdf'
-website: 'https://meerahahn.github.io/way'
-data: 'https://meerahahn.github.io/way/data'
-code: 'https://github.com/meera1hahn/Graph_LED'
 ---
 
 <!-- ---
