@@ -1,0 +1,11 @@
+title: Meera Hahn
+description: Meera Hahn's Website
+
+baseurl: "/"
+url: "https://meera1hahn.github.io/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+ga_id: UA-163181097-2
