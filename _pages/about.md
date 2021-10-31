@@ -12,4 +12,4 @@ I am a PhD student at the Georgia Institute of Technology studying computer scie
 In the summer of 2020, I was an intern at FAIR working with Abhinav Gupta. 
 In the summer of 2019, I was a research intern at Facebook Reality Labs (FRL) working with James Hillis and Dhruv Batra. In the summer of 2018, I was a research intern at NEC Labs working with Asim Kadav and Hans Peter Graf.
 
-As an undergraduate at Emory University, I worked in a Natural Language Processing lab for two years under Dr. Jinho Choi. I also spent a summer working with Dr. Mubarak Shah at University of Central Florida.
+As an undergraduate at Emory University, I worked in a Natural Language Processing lab for two years under Dr. <a class="poplink" href="https://github.com/meera1hahn/Graph_LED/">Jinho Choi</a>. I also spent a summer working with Dr. Mubarak Shah at University of Central Florida.
