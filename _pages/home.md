@@ -193,7 +193,6 @@ favicon: /static/img/vlnce/favicon2.png
     <ul style="margin:10px 10px 10px;"  class="col-xs-12">
       <li>Spring 2020: CS 8803 Machine Learning with Limited Supervision, TA <a href="https://sites.google.com/view/fall2019-cs8803-ls">site</a></li>
       <li>Fall 2019: CS 6476 Computer Vision, Head TA <a href="https://sites.google.com/view/cs4476-6476-sp2020">site</a></li>
-      <li>B.S. in Computer Science and Mathematics, Emory University, 2016</li>
    </ul>
 </div>
 </div>
