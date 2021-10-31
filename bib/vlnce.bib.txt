@@ -1,0 +1,8 @@
+@article{krantz2020navgraph,
+    title={Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments},
+    author={Jacob Krantz and Erik Wijmans and Arjun Majumdar and Dhruv Batra and Stefan Lee},
+    year={2020},
+    eprint={2004.02857},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
