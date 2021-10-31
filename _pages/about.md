@@ -13,3 +13,13 @@ In the summer of 2020, I was an intern at FAIR working with [Abhinav Gupta](http
 In the summer of 2019, I was a research intern at Facebook Reality Labs (FRL) working with [James Hillis](https://scholar.google.com/citations?user=8jWt18AAAAAJ&hl=en) and Dhruv Batra. In the summer of 2018, I was a research intern at NEC Labs working with [Asim Kadav](https://www.nec-labs.com/asim-kadav) and Hans Peter Graf.
 
 As an undergraduate at Emory University, I worked in a Natural Language Processing lab for two years under [Dr. Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html). I also spent a summer working with [Dr. Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/) at University of Central Florida.
+
+
+## Education
+* Georgia Institute of Technology - Presidential PhD Fellowship (2016 - 2020)
+* Ph.D in Computer Science, Georgia Institute of Technology, May 2022 (expected)
+* B.S. in Computer Science and Mathematics, Emory University, 2016
+
+## Teaching
+* Spring 2020: CS 8803 Machine Learning with Limited Supervision, TA [site](https://sites.google.com/view/fall2019-cs8803-ls)
+* Fall 2019: CS 6476 Computer Vision, Head TA [site](https://sites.google.com/view/cs4476-6476-sp2020)
