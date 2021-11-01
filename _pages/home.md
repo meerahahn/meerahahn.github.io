@@ -189,7 +189,7 @@ favicon: /static/img/vlnce/favicon2.png
 </div>
 <div class="row">
     <div class="col-xs-12">
-          <img class="teaser" src="{{site.baseurl}}/static/img/files/tracking.jpg">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/thesis.jpg">
     </div>
 </div>
 <hr>
