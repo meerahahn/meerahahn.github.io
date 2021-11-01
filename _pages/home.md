@@ -183,7 +183,7 @@ favicon: /static/img/vlnce/favicon2.png
         Meera Hahn, and Jinho Choi.<br>
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-      Emory 2016
+      Emory Undergraduate Thesis 2016
       [<a href="http://pid.emory.edu/ark:/25593/rj67f">Paper</a>]
     </div>
 </div>
