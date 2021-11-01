@@ -94,7 +94,7 @@ favicon: /static/img/vlnce/favicon2.png
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
       Arxiv 2020
-      [<a href="{site.baseurl}}/static/img/files/visual_assistant.pdf.pdf">Paper</a>]
+      [<a href="{site.baseurl}}/static/img/files/visual_assistant.pdf">Paper</a>]
       [<a href="https://github.com/meera1hahn/Visual-Assistant">Code</a>]
     </div>
 </div>
