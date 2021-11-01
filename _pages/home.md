@@ -64,6 +64,26 @@ favicon: /static/img/vlnce/favicon2.png
     </div>
 </div>
 
+<div class="row">
+    <div class="col-xs-12">
+        <h4>Where Are You? Localization from Embodied Dialog</h4>
+    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+        Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James M. Rehg, Stefan Lee, and Peter Anderson.<br>    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+      EMNLP 2020
+      [<a href='https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf'>Paper</a>]
+      [<a href="https://meerahahn.github.io/way">Website</a>]
+      [<a href="https://meerahahn.github.io/way/data">Data</a>]
+      [<a href="https://github.com/meera1hahn/Graph_LED">Code</a>]
+      [<a href="https://eval.ai/web/challenges/challenge-page/1206">Leaderboard</a>]
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/way.jpg">
+    </div>
+</div>
 
 <div class="row">
     <div class="col-xs-12">
