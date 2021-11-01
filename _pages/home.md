@@ -151,6 +151,11 @@ favicon: /static/img/vlnce/favicon2.png
       [<a href="https://link.springer.com/chapter/10.1007/978-3-030-28619-4_29">Paper</a>]
     </div>
 </div>
+<div class="row">
+    <div class="col-xs-12">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/situated.jpg">
+    </div>
+</div>
 
 <div class="row">
     <div class="col-xs-12">
@@ -164,8 +169,29 @@ favicon: /static/img/vlnce/favicon2.png
       [<a href="https://arxiv.org/abs/1512.03993">Paper</a>]
     </div>
 </div>
+<div class="row">
+    <div class="col-xs-12">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/tracking.jpg">
+    </div>
+</div>
 
-
+<div class="row">
+    <div class="col-xs-12">
+        <h4>Advances in Methods and Evaluations for Distributional Semantic Models</h4>
+    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+        Meera Hahn, and Jinho Choi.<br>
+    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+      Emory 2016
+      [<a href="http://pid.emory.edu/ark:/25593/rj67f">Paper</a>]
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/tracking.jpg">
+    </div>
+</div>
 <hr>
 
 # Talks {#talks}
