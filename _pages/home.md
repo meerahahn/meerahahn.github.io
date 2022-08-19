@@ -19,7 +19,7 @@ favicon: /static/img/vlnce/favicon2.png
         <p><img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/> <a href="https://twitter.com/MeeraHahn?ref_src=twsrc%5Etfw">Twitter</a></p>
     </div>
     <div class="column2">
-    <p>I am a PhD student at the Georgia Institute of Technology studying computer science. I am advised by <a href="https://rehg.org/" style="color: blue">James M. Rehg</a> have the pleasure of working closely with 
+    <p>I am a Research Scientist at <a href="https://research.google/" style="color: blue">Google Research</a> in Atlanta. I recently completed my PhD in Computer Science at the Georgia Institute of Technology where I was advised by <a href="https://rehg.org/" style="color: blue">James M. Rehg</a>. At Georgia Tech I also had the pleasure of working closely with 
     <a href="https://www.cc.gatech.edu/~dbatra/" style="color: blue">Dhruv Batra</a> and <a href="https://www.cc.gatech.edu/~parikh/" style="color: blue">Devi Parikh</a>. At Georgia Tech I have also collaborated with <a href="https://panderson.me/" style="color: blue">Peter Anderson</a> and <a href="https://web.engr.oregonstate.edu/~leestef/" style="color: blue">Stefan Lee</a>. My research interests are primarily focused on multi-modal modeling of vision and natural language for applications in artificial intelligence. My long-term research goal is to develop multi-modal systems capable of supporting robotic or AR assistants that can seemlessly interact with humans. My research currently revolves around training embodied agents (in simulation) to perform complex semantic grounding tasks.
     </p>
     <p>In the summer of 2020, I was an intern at FAIR working with <a href="http://www.cs.cmu.edu/~abhinavg/" style="color: blue">Abhinav Gupta</a>. In the summer of 2019, I was a research intern at Facebook Reality Labs (FRL) working with <a href="https://scholar.google.com/citations?user=8jWt18AAAAAJ&hl=en" style="color: blue">James Hillis</a> and Dhruv Batra. In the summer of 2018, I was a research intern at NEC Labs working with <a href="https://www.nec-labs.com/asim-kadav" style="color: blue">Asim Kadav</a> and Hans Peter Graf. </p>
@@ -35,7 +35,7 @@ favicon: /static/img/vlnce/favicon2.png
   <div class="col-xs-12">
       <ul style="margin:10px 10px 10px;"  class="col-xs-12">
         <li>Georgia Institute of Technology - Presidential PhD Fellowship (2016 - 2020)</li>
-        <li>Ph.D in Computer Science, Georgia Institute of Technology, May 2022 (expected)</li>
+        <li>Ph.D in Computer Science, Georgia Institute of Technology, July 2022</li>
         <li>B.S. in Computer Science and Mathematics, Emory University, 2016</li>
     </ul>
   </div>
@@ -43,6 +43,39 @@ favicon: /static/img/vlnce/favicon2.png
 <hr>
 
 # Publications {#pubs}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h4>Which way is `right'?: Uncovering Limitations of Vision-and-Language navigation Models</h4>
+    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+        Meera Hahn, James M. Rehg<br>    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+      Submitted to AACL 2022
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/uncovering.jpg">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <h4>Transformer-based Localization from Embodied Dialog with Large-scale Pre-training</h4>
+    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+        Meera Hahn, James M. Rehg<br>    </div>
+    <div class="col-xs-12" style="margin-top: 3px; color: #666;">
+      Submitted to AACL 2022
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+          <img class="teaser" src="{{site.baseurl}}/static/img/files/ledbert.jpg">
+    </div>
+</div>
+
 
 <div class="row">
     <div class="col-xs-12">
