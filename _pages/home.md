@@ -46,12 +46,13 @@ favicon: /static/img/vlnce/favicon2.png
 
 <div class="row">
     <div class="col-xs-12">
-        <h4>Which way is `right'?: Uncovering Limitations of Vision-and-Language navigation Models</h4>
+        <h4>Which way is `right'?: Uncovering Limitations of Vision-and-Language Navigation Models</h4>
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
         Meera Hahn, James M. Rehg<br>    </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
       Submitted to AACL 2022
+      [<a href="{{site.baseurl}}/static/img/files/AACL_Uncovering_Limitations.pdf">Paper</a>]
     </div>
 </div>
 <div class="row">
@@ -68,7 +69,11 @@ favicon: /static/img/vlnce/favicon2.png
         Meera Hahn, James M. Rehg<br>    </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
       Submitted to AACL 2022
+      [<a href="{{site.baseurl}}/static/img/files/AACL_LED_BERT.pdf">Paper</a>]
     </div>
+
+
+    
 </div>
 <div class="row">
     <div class="col-xs-12">
