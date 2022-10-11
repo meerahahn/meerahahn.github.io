@@ -51,7 +51,7 @@ favicon: /static/img/vlnce/favicon2.png
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
         Meera Hahn, James M. Rehg<br>    </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-      Submitted to AACL 2022
+      Submitted to AAMAS 2023
       [<a href="{{site.baseurl}}/static/img/files/AACL_Uncovering_Limitations.pdf">Paper</a>]
     </div>
 </div>
@@ -68,8 +68,8 @@ favicon: /static/img/vlnce/favicon2.png
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
         Meera Hahn, James M. Rehg<br>    </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
-      Submitted to AACL 2022
-      [<a href="{{site.baseurl}}/static/img/files/AACL_LED_BERT.pdf">Paper</a>]
+      AACL 2022
+      [<a href="https://arxiv.org/abs/2210.04864">Paper</a>]
     </div>
 
 
@@ -132,7 +132,7 @@ favicon: /static/img/vlnce/favicon2.png
     </div>
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
       Arxiv 2020
-      [<a href="{{site.baseurl}}/static/img/files/visual_assistant.pdf">Paper</a>]
+      [<a href="https://arxiv.org/abs/2210.03787">Paper</a>]
       [<a href="https://github.com/meera1hahn/Visual-Assistant">Code</a>]
     </div>
 </div>
