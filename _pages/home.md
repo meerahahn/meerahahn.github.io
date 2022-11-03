@@ -70,10 +70,10 @@ favicon: /static/img/vlnce/favicon2.png
     <div class="col-xs-12" style="margin-top: 3px; color: #666;">
       AACL 2022
       [<a href="https://arxiv.org/abs/2210.04864">Paper</a>]
+      [<a href="https://youtu.be/eLZ8XOYes7I">Video</a>]
+      [<a href="https://github.com/meera1hahn/Graph_LED">Code</a>]
     </div>
 
-
-    
 </div>
 <div class="row">
     <div class="col-xs-12">
